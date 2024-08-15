@@ -17,3 +17,22 @@ Choose your setup:
   Exit
 ```
 - Press `Enter` in the keyboard
+
+### Network Parameters -Network Parameters-Resources Network Name
+-----------------------------------------------------------
+### Fluent Developer Preview
+
+- #### RPC URL
+  https://rpc.dev.thefluent.xyz/
+- #### Chain ID
+  20993
+- #### Symbol
+  ETH
+----------------------------------------------------------
+### Fluent Developer Preview Resources	Links
+- #### Faucet
+https://faucet.dev.thefluent.xyz/
+- #### RPC
+https://rpc.dev.thefluent.xyz/
+- #### Explorer
+ https://blockscout.dev.thefluent.xyz/
