@@ -4,7 +4,7 @@
 - Request fluent faucet here : [Faucet Link](https://faucet.dev.thefluent.xyz/)
 - Enter the below command to start deployment
 ```bash
-wget https://raw.githubusercontent.com/Dropxtor/Fluent-Script/main/fluent-devnet-contract.sh && chmod +x fluent-devnet-contract.sh && ./fluent-devnet-contract.sh
+wget https://raw.githubusercontent.com/Dropxtor/Fluent-script/main/fluent-devnet-contract.sh && chmod +x fluent-devnet-contract.sh && ./fluent-devnet-contract.sh
 ```
 - After using `gblend` command, it will ask you something like this
 ```bash
